@@ -136,7 +136,7 @@ To https://github.com/Hikolas/Python-Orion-basic-.git
 
 15. Create new branch from master called `first` (without checkouting)
 
-kolya@kolya-VirtualBox:~/Project/Python-Orion-basic-/homeworks/git/cursor_git_hw$ git branch second
+kolya@kolya-VirtualBox:~/Project/Python-Orion-basic-/homeworks/git/cursor_git_hw$ git branch first
 
 
 16. Create one more branch from master called `second` (with checkouting to it)
