@@ -1,19 +1,149 @@
 1. Create a folder called cursor_git_hw
+
+kolya@kolya-VirtualBox:~/Project/Python-Orion-basic-/homeworks/git$ mkdir cursor_git_hw
+
+
 2. cd into the cursor_git_hw folder.
+
+kolya@kolya-VirtualBox:~/Project/Python-Orion-basic-/homeworks/git$ cd cursor_git_hw/
+
+
 3. Create a file called first.txt.
+
+kolya@kolya-VirtualBox:~/Project/Python-Orion-basic-/homeworks/git/cursor_git_hw$ touch first.txt
+
+
 4. Add first.txt to the staging area.
+
+kolya@kolya-VirtualBox:~/Project/Python-Orion-basic-/homeworks/git/cursor_git_hw$ git add first.txt 
+
+
 5. Commit with the message "adding first.txt".
+
+kolya@kolya-VirtualBox:~/Project/Python-Orion-basic-/homeworks/git/cursor_git_hw$ git commit -m "adding first.txt"
+
+[master 41aa97f] adding first.txt
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 homeworks/git/cursor_git_hw/first.txt
+ 
+ 
 6. Check out your commit with git log.
+
+kolya@kolya-VirtualBox:~/Project/Python-Orion-basic-/homeworks/git/cursor_git_hw$ git log
+
+commit 41aa97f20d621ebe1865c858e94fb76faef7fc86 (HEAD -> master)
+Author: kolya <kcorejz@gmail.com>
+Date:   Wed Jun 30 15:19:43 2021 +0300
+
+    adding first.txt
+
+commit d5b787cfbd7df48fbefb1ff0334d4f94bc828be5 (origin/master, origin/HEAD)
+Author: Rostyslav Kitsylinskyy <rostyslav.kitsylinskyy@gmail.com>
+Date:   Mon Jun 28 21:13:58 2021 +0300
+
+    Git HW
+
+commit 189d9c6c457caf358bb3e4dfb7b5fcd88e57a57d
+Author: Rostyslav Kitsylinskyy <rostyslav.kitsylinskyy@gmail.com>
+Date:   Tue Jun 22 17:46:00 2021 +0300
+
+    Linux HW
+
+
 7. Create another file called second.txt.
+
+kolya@kolya-VirtualBox:~/Project/Python-Orion-basic-/homeworks/git/cursor_git_hw$ touch second.txt
+
+
 8. Add second.txt to the staging area.
+
+kolya@kolya-VirtualBox:~/Project/Python-Orion-basic-/homeworks/git/cursor_git_hw$ git add second.txt 
+
+
 9. Commit with the message "adding second.txt"
+
+kolya@kolya-VirtualBox:~/Project/Python-Orion-basic-/homeworks/git/cursor_git_hw$ git commit -m "adding second.txt"
+[master ce760b0] adding second.txt
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 homeworks/git/cursor_git_hw/second.txt
+
+
 10. Remove the first.txt file
+
+kolya@kolya-VirtualBox:~/Project/Python-Orion-basic-/homeworks/git/cursor_git_hw$ ls
+
+
 11. Add this change to the staging area
+
+kolya@kolya-VirtualBox:~/Project/Python-Orion-basic-/homeworks/git/cursor_git_hw$ git add first.txt 
+
+
 12. Commit with the message "removing first.txt"
+
+olya@kolya-VirtualBox:~/Project/Python-Orion-basic-/homeworks/git/cursor_git_hw$ git commit -m "ramoving first.txt"
+[master 0132752] ramoving first.txt
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ delete mode 100644 homeworks/git/cursor_git_hw/first.txt
+
+
 13. Check out your commits using git log
+
+kolya@kolya-VirtualBox:~/Project/Python-Orion-basic-/homeworks/git/cursor_git_hw$ git log
+commit 013275282625ec690d2407005805067bf8a0cee4 (HEAD -> master)
+Author: kolya <kcorejz@gmail.com>
+Date:   Wed Jun 30 15:28:54 2021 +0300
+
+    ramoving first.txt
+
+commit ce760b000bf13008b0475994d5275d0a0942b1b0
+Author: kolya <kcorejz@gmail.com>
+Date:   Wed Jun 30 15:23:35 2021 +0300
+
+    adding second.txt
+
+commit 41aa97f20d621ebe1865c858e94fb76faef7fc86
+Author: kolya <kcorejz@gmail.com>
+Date:   Wed Jun 30 15:19:43 2021 +0300
+
+    adding first.txt
+
+commit d5b787cfbd7df48fbefb1ff0334d4f94bc828be5 (origin/master, origin/HEAD)
+Author: Rostyslav Kitsylinskyy <rostyslav.kitsylinskyy@gmail.com>
+Date:   Mon Jun 28 21:13:58 2021 +0300
+
+    Git HW
+    
+commit 189d9c6c457caf358bb3e4dfb7b5fcd88e57a57d
+Author: Rostyslav Kitsylinskyy <rostyslav.kitsylinskyy@gmail.com>
+Date:   Tue Jun 22 17:46:00 2021 +0300
+
+    Linux HW
+
+
 14. Push your changes to remote
+
+kolya@kolya-VirtualBox:~/Project/Python-Orion-basic-/homeworks/git/cursor_git_hw$ git push
+
+Username for 'https://github.com': Hikolas
+Password for 'https://Hikolas@github.com': 
+Перечисление объектов: 19, готово.
+Подсчет объектов: 100% (19/19), готово.
+Сжатие объектов: 100% (10/10), готово.
+Запись объектов: 100% (16/16), 1.21 KiB | 413.00 KiB/s, готово.
+Всего 16 (изменения 0), повторно использовано 0 (изменения 0)
+To https://github.com/Hikolas/Python-Orion-basic-.git
+   d5b787c..0132752  master -> master
+
 15. Create new branch from master called `first` (without checkouting)
+
+kolya@kolya-VirtualBox:~/Project/Python-Orion-basic-/homeworks/git/cursor_git_hw$ git branch second
+
+
 16. Create one more branch from master called `second` (with checkouting to it)
+
+kolya@kolya-VirtualBox:~/Project/Python-Orion-basic-/homeworks/git/cursor_git_hw$ git checkout -b second
+
+
 17. Change the second.txt file with "Hello" string.
 18. Stash you changes and checkout to first branch.
 19. Checkout back and Stash Pop the changes.
