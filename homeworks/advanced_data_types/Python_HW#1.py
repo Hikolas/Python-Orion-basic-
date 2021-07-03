@@ -274,14 +274,17 @@ print("# 23*. Raise each list number to the corresponding number on another list
 
 list_A = [2, 3, 4]
 list_B = [5, 6, 7]
+# while list_A != list_B:
+#     if list_A != list_B and list_A < list_B:
+#         list_A = (list(map(lambda x: x + 1, list_A)))
+#     else:
+#         list_B = (list(map(lambda x: x + 1, list_B)))
+#
+# print("list_A = list_B")
+
 while list_A != list_B:
-    if list_A != list_B and list_A < list_B:
-        list_A = (list(map(lambda x: x + 1, list_A)))
-    else:
-        list_B = (list(map(lambda x: x + 1, list_B)))
-
-print("list_A = list_B")
-
+    list_A = (list(map(lambda x: x+1, list_A )))
+print(list_A, " = ", list_B)
 
 # 24. Use reduce and lambda to compute the numbers of a lst_to_sort.
 
