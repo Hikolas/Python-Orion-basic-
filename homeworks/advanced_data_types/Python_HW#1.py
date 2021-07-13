@@ -22,8 +22,11 @@ print("dict_e-", id(dict_e))
 
 # print("2. Append 4 and 5 to the lst_d and define the id one more time.")
 
+lst_d = [1, 2, 3]
+lst_d.append(4)
+lst_d.append(5)
 # lst_d = [1, 2, 3, 4, 5]
-# print("lst_d- ", id(lst_d))
+print("lst_d- ", id(lst_d))
 
 
 # 3. Define the type of each object from step 1.
@@ -72,7 +75,7 @@ print("Anna has {} apples and {} peaches.".format(5, 3))
 
 print("6. By passing index numbers into the curly braces.")
 
-print("Anna has {a} apples and {b} peaches.".format(a=5, b=3))
+print("Anna has {0} apples and {1} peaches.".format(a=5, b=3))
 
 
 # 7. By using keyword arguments into the curly braces.
