@@ -1,0 +1,441 @@
+INFO: 2021-07-26 17:46:26,027: Calculator.py: - Programm started
+INFO: 2021-07-26 17:46:26,027: Calculator.py: - Plus function with args 
+INFO: 2021-07-26 17:46:26,027: Calculator.py: - Plus function with args 2 , 3
+INFO: 2021-07-26 17:46:26,027: Calculator.py: - Plus function with args 
+INFO: 2021-07-27 14:22:40,988: Calculator01.py: - Programm started
+INFO: 2021-07-27 14:22:40,988: Calculator01.py: - Choice of math action
+INFO: 2021-07-27 14:22:40,988: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-27 14:25:25,295: Calculator01.py: - Programm started
+INFO: 2021-07-27 14:25:25,295: Calculator01.py: - Choice of math action
+INFO: 2021-07-27 14:25:25,295: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-27 14:26:03,914: Calculator01.py: - Programm started
+INFO: 2021-07-27 14:26:03,914: Calculator01.py: - Choice of math action
+INFO: 2021-07-27 14:26:03,914: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-27 14:26:03,914: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-27 14:26:15,503: Calculator01.py: - Choice of math action
+INFO: 2021-07-27 14:26:15,503: Calculator01.py: - Perform addition 2 , 2
+INFO: 2021-07-27 14:26:15,503: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-27 14:26:37,599: Calculator01.py: - Programm started
+INFO: 2021-07-27 14:26:37,600: Calculator01.py: - Choice of math action
+INFO: 2021-07-27 14:26:52,972: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-27 14:26:55,570: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-27 14:27:11,854: Calculator01.py: - Choice of math action
+INFO: 2021-07-27 14:27:13,344: Calculator01.py: - Perform addition 2 , 2
+INFO: 2021-07-27 14:27:16,096: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-27 14:27:55,152: Calculator01.py: - Programm started
+INFO: 2021-07-27 14:27:55,152: Calculator01.py: - Choice of math action
+INFO: 2021-07-27 14:27:55,152: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-27 14:28:07,839: Calculator01.py: - Programm started
+INFO: 2021-07-27 14:28:07,839: Calculator01.py: - Choice of math action
+INFO: 2021-07-27 14:28:07,839: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-27 14:28:07,839: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-27 14:28:21,579: Calculator01.py: - Choice of math action
+INFO: 2021-07-27 14:28:21,579: Calculator01.py: - Perform multiplication 6 , 2
+INFO: 2021-07-27 14:28:21,579: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-27 14:28:26,315: Calculator01.py: - Choice of math action
+INFO: 2021-07-27 14:28:26,315: Calculator01.py: - Perform subtraction 12 , 4
+INFO: 2021-07-27 14:28:26,315: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-27 14:28:57,696: Calculator01.py: - Programm started
+INFO: 2021-07-27 14:28:57,696: Calculator01.py: - Choice of math action
+INFO: 2021-07-27 14:28:57,697: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-27 14:28:57,697: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-27 14:29:43,887: Calculator01.py: - Choice of math action
+INFO: 2021-07-27 14:29:43,888: Calculator01.py: - Perform subtraction 6 , 4
+INFO: 2021-07-27 14:29:43,888: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-27 14:29:54,264: Calculator01.py: - Choice of math action
+INFO: 2021-07-27 14:29:54,264: Calculator01.py: - Perform division 2 , 0
+ERROR: 2021-07-27 14:29:54,264: Calculator01.py: - Zero division error
+INFO: 2021-07-27 14:29:54,264: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 12:12:38,901: Calculator01.py: - Programm started
+INFO: 2021-07-29 12:12:38,901: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 12:12:38,901: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-29 12:12:38,901: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 12:18:17,716: Calculator01.py: - Programm started
+INFO: 2021-07-29 12:18:17,716: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 12:18:17,716: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-29 12:18:17,716: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 12:18:31,059: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 12:18:31,059: Calculator01.py: - Perform addition 6 , 5
+INFO: 2021-07-29 12:18:31,059: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 12:18:42,262: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 12:18:42,262: Calculator01.py: - Perform subtraction 11 , 10
+INFO: 2021-07-29 12:18:42,262: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 12:18:48,387: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 12:18:48,387: Calculator01.py: - Perform multiplication 1 , 3
+INFO: 2021-07-29 12:18:48,387: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 12:20:42,156: Calculator01.py: - Programm started
+INFO: 2021-07-29 12:20:42,156: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 12:20:42,156: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-29 12:20:42,156: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 12:20:57,558: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 12:20:57,558: Calculator01.py: - Perform subtraction 6 , 5
+INFO: 2021-07-29 12:20:57,558: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 12:21:09,794: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 12:21:09,794: Calculator01.py: - Perform addition 1 , 10
+INFO: 2021-07-29 12:21:09,794: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 12:21:15,779: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 12:21:15,779: Calculator01.py: - Performing the calculation of percentages 11 , 5
+INFO: 2021-07-29 12:21:15,779: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 12:21:44,213: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 12:21:44,213: Calculator01.py: - Performing the calculation of percentages 220.0 , 100
+INFO: 2021-07-29 12:21:44,213: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 12:21:59,557: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 12:21:59,557: Calculator01.py: - Perform subtraction 220.0 , 100
+INFO: 2021-07-29 12:21:59,557: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 12:22:07,920: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 12:22:07,920: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 12:22:17,513: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 12:22:17,513: Calculator01.py: - Perform subtraction 120.0 , 20
+INFO: 2021-07-29 12:22:17,513: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 12:22:24,341: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 12:22:24,341: Calculator01.py: - Performing the calculation of percentages 100.0 , 100
+INFO: 2021-07-29 12:22:24,341: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 12:22:34,887: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 12:22:34,887: Calculator01.py: - Performing the calculation of percentages 100.0 , 50
+INFO: 2021-07-29 12:22:34,887: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 12:23:41,201: Calculator01.py: - Programm started
+INFO: 2021-07-29 12:23:41,201: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 12:23:41,201: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-29 12:23:41,201: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 12:23:51,873: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 12:23:51,873: Calculator01.py: - Performing the calculation of percentages 6 , 3
+INFO: 2021-07-29 12:23:51,873: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 12:24:30,400: Calculator01.py: - Programm started
+INFO: 2021-07-29 12:24:30,400: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 12:24:30,400: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-29 12:24:30,400: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 12:24:45,606: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 12:24:45,606: Calculator01.py: - Performing the calculation of percentages 6 , 3
+INFO: 2021-07-29 12:24:45,606: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 12:28:06,980: Calculator01.py: - Programm started
+INFO: 2021-07-29 12:28:06,980: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 12:28:06,980: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-29 12:28:06,980: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 12:28:16,165: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 12:28:16,165: Calculator01.py: - Performing the calculation of percentages 6 , 3
+INFO: 2021-07-29 12:28:16,165: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 12:28:35,135: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 12:28:35,135: Calculator01.py: - Perform subtraction 50.0 , 3
+INFO: 2021-07-29 12:28:35,135: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 12:37:14,710: Calculator01.py: - Programm started
+INFO: 2021-07-29 12:37:14,710: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 12:37:14,710: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-29 12:37:14,710: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 12:37:22,886: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 12:37:22,886: Calculator01.py: - Perform subtraction 6 , 4
+INFO: 2021-07-29 12:37:22,886: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 12:37:27,263: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 12:37:27,263: Calculator01.py: - Performing the calculation of percentages 2 , 1
+INFO: 2021-07-29 12:37:27,263: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 12:37:58,481: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 12:37:58,481: Calculator01.py: - Perform multiplication 50.0 , 2
+INFO: 2021-07-29 12:37:58,481: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 12:39:25,742: Calculator01.py: - Programm started
+INFO: 2021-07-29 12:39:25,743: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 12:39:25,743: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-29 12:39:25,743: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 12:39:29,964: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 12:39:29,964: Calculator01.py: - Perform subtraction 6 , 4
+INFO: 2021-07-29 12:39:29,964: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 12:39:35,136: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 12:39:35,136: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 12:39:41,589: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 12:39:41,589: Calculator01.py: - Performing elevation to the degree 2 , 2
+INFO: 2021-07-29 12:39:41,589: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 12:39:50,965: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 12:39:50,965: Calculator01.py: - Perform multiplication 4 , 5
+INFO: 2021-07-29 12:39:50,965: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 12:39:58,980: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 12:39:58,980: Calculator01.py: - Perform division 20 , 4
+INFO: 2021-07-29 12:39:58,996: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 12:40:08,980: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 12:40:08,980: Calculator01.py: - Perform multiplication 5.0 , 4
+INFO: 2021-07-29 12:40:08,980: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 12:40:33,576: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 12:40:33,576: Calculator01.py: - Performing the calculation of percentages 20.0 , 4
+INFO: 2021-07-29 12:40:33,576: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 12:42:25,231: Calculator01.py: - Programm started
+INFO: 2021-07-29 12:42:25,231: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 12:42:25,231: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-29 12:42:25,231: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 12:42:32,653: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 12:42:32,653: Calculator01.py: - Performing the calculation of percentages 6 , 2
+INFO: 2021-07-29 12:42:32,653: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 12:42:57,856: Calculator01.py: - Programm started
+INFO: 2021-07-29 12:42:57,856: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 12:42:57,856: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-29 12:42:57,856: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 12:42:59,247: Calculator01.py: - Programm started
+INFO: 2021-07-29 12:42:59,247: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 12:42:59,247: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-29 12:42:59,247: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 12:46:12,267: Calculator01.py: - Programm started
+INFO: 2021-07-29 12:46:12,267: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 12:46:12,267: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-29 12:46:12,267: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 12:47:19,919: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 12:47:19,919: Calculator01.py: - Perform addition 33.333333333333336 , 2
+INFO: 2021-07-29 12:47:19,919: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 12:49:32,498: Calculator01.py: - Programm started
+INFO: 2021-07-29 12:49:32,499: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 12:49:32,499: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-29 12:49:32,499: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 12:49:39,571: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 12:49:39,571: Calculator01.py: - Perform subtraction <class 'int'> , 2
+INFO: 2021-07-29 12:50:53,638: Calculator01.py: - Programm started
+INFO: 2021-07-29 12:50:53,638: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 12:50:53,638: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-29 12:50:53,638: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 12:50:59,216: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 12:50:59,216: Calculator01.py: - Performing the calculation of percentages <class 'int'> , 3
+INFO: 2021-07-29 12:54:21,604: Calculator01.py: - Programm started
+INFO: 2021-07-29 12:54:21,604: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 12:54:21,604: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-29 12:54:21,604: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 12:54:26,519: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 12:54:26,519: Calculator01.py: - Performing the calculation of percentages <class 'int'> , 3
+INFO: 2021-07-29 13:00:29,371: Calculator01.py: - Programm started
+INFO: 2021-07-29 13:00:29,371: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 13:00:29,371: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-29 13:00:29,371: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 13:00:36,402: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 13:00:36,402: Calculator01.py: - Performing the calculation of percentages 6 , 3
+INFO: 2021-07-29 13:00:36,402: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 13:01:35,568: Calculator01.py: - Programm started
+INFO: 2021-07-29 13:01:35,568: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 13:01:35,568: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-29 13:01:35,568: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 13:06:19,444: Calculator01.py: - Programm started
+INFO: 2021-07-29 13:06:19,444: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 13:06:19,444: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-29 13:06:19,445: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 13:09:49,961: Calculator01.py: - Programm started
+INFO: 2021-07-29 13:09:49,961: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 13:09:49,961: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-29 13:09:49,961: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 13:10:22,005: Calculator01.py: - Programm started
+INFO: 2021-07-29 13:10:22,005: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 13:10:22,005: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-29 13:10:22,005: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 13:10:58,444: Calculator01.py: - Programm started
+INFO: 2021-07-29 13:10:58,444: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 13:10:58,444: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-29 13:10:58,444: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 13:11:03,136: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 13:11:03,136: Calculator01.py: - Perform division 6 , 5
+INFO: 2021-07-29 13:11:03,136: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 13:11:11,089: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 13:11:11,089: Calculator01.py: - Performing the calculation of percentages 1.2 , 1
+INFO: 2021-07-29 13:11:11,089: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 13:14:09,213: Calculator01.py: - Programm started
+INFO: 2021-07-29 13:14:09,213: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 13:14:09,213: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-29 13:14:09,213: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 13:17:16,799: Calculator01.py: - Programm started
+INFO: 2021-07-29 13:17:16,799: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 13:17:16,799: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-29 13:17:16,799: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 13:17:52,575: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 13:17:52,575: Calculator01.py: - Perform division 6 , 5
+INFO: 2021-07-29 13:17:52,575: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 13:17:56,747: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 13:17:56,747: Calculator01.py: - Perform multiplication 1.2 , 3
+INFO: 2021-07-29 13:17:56,747: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 13:18:03,123: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 13:18:03,123: Calculator01.py: - Perform addition 3.5999999999999996 , 100
+INFO: 2021-07-29 13:18:03,123: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 13:18:06,638: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 13:18:06,638: Calculator01.py: - Performing the calculation of percentages 103.6 , 2
+INFO: 2021-07-29 13:18:06,638: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 13:32:09,369: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 13:32:09,369: Calculator01.py: - Performing elevation to the degree 200.0 , 2
+INFO: 2021-07-29 13:32:09,369: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 13:32:49,416: Calculator01.py: - Programm started
+INFO: 2021-07-29 13:32:49,416: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 13:32:49,416: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-29 13:32:49,417: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 13:32:56,278: Calculator01.py: - Programm started
+INFO: 2021-07-29 13:32:56,278: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 13:32:56,278: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-29 13:32:56,278: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 13:35:40,383: Calculator01.py: - Programm started
+INFO: 2021-07-29 13:35:40,383: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 13:35:40,383: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-29 13:35:40,383: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 13:35:45,219: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 13:35:45,219: Calculator01.py: - Perform subtraction 6 , 5
+INFO: 2021-07-29 13:35:45,219: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 13:35:49,635: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 13:35:49,635: Calculator01.py: - Perform addition 1 , 100
+INFO: 2021-07-29 13:35:49,635: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 13:35:58,502: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 13:35:58,502: Calculator01.py: - Performing the calculation of percentages 101 , 5
+INFO: 2021-07-29 13:35:58,502: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 13:36:14,005: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 13:36:14,005: Calculator01.py: - Perform subtraction 4.9504950495049505 , 2
+INFO: 2021-07-29 13:36:14,005: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 13:36:19,625: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 13:36:19,626: Calculator01.py: - Perform addition 2.9504950495049505 , 30
+INFO: 2021-07-29 13:36:19,626: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 13:36:24,333: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 13:36:24,333: Calculator01.py: - Performing elevation to the degree 32.95049504950495 , 2
+INFO: 2021-07-29 13:36:24,333: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 13:36:38,114: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 13:36:38,114: Calculator01.py: - Perform addition 1085.7351240074504 , 3
+INFO: 2021-07-29 13:36:38,114: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 13:37:42,649: Calculator01.py: - Programm started
+INFO: 2021-07-29 13:37:42,649: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 13:37:42,649: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-29 13:37:42,649: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 13:37:49,293: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 13:37:49,293: Calculator01.py: - Perform addition 6 , 10
+INFO: 2021-07-29 13:37:49,293: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 13:38:04,502: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 13:38:04,502: Calculator01.py: - Performing elevation to the root  16 
+INFO: 2021-07-29 13:38:04,502: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 13:38:30,768: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 13:38:30,768: Calculator01.py: - Perform multiplication 4.0 , 100
+INFO: 2021-07-29 13:38:30,768: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 13:38:35,034: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 13:38:35,034: Calculator01.py: - Perform addition 400.0 , 20
+INFO: 2021-07-29 13:38:35,034: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 13:38:42,722: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 13:38:42,722: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 13:38:52,035: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 13:38:52,035: Calculator01.py: - Perform subtraction 420.0 , 40
+INFO: 2021-07-29 13:38:52,035: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 13:39:02,525: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 13:39:02,525: Calculator01.py: - Perform division 380.0 , 66
+INFO: 2021-07-29 13:39:02,525: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 14:14:45,345: Calculator01.py: - Programm started
+INFO: 2021-07-29 14:14:45,345: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 14:14:45,345: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-29 14:14:45,346: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 14:15:41,547: Calculator01.py: - Programm started
+INFO: 2021-07-29 14:15:41,547: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 14:15:41,547: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-29 14:15:41,547: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 14:15:49,326: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 14:15:49,326: Calculator01.py: - Perform addition 6 , 5
+INFO: 2021-07-29 14:15:49,326: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 14:17:42,116: Calculator01.py: - Programm started
+INFO: 2021-07-29 14:17:42,116: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 14:17:42,116: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-29 14:17:42,116: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 14:27:24,458: Calculator01.py: - Programm started
+INFO: 2021-07-29 14:27:24,458: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 14:27:24,458: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-29 14:32:34,828: Calculator01.py: - Programm started
+INFO: 2021-07-29 14:32:34,828: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 14:32:34,828: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-29 14:32:36,108: Calculator01.py: - Programm started
+INFO: 2021-07-29 14:32:36,108: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 14:32:36,108: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-29 14:32:49,038: Calculator01.py: - Programm started
+INFO: 2021-07-29 14:32:49,038: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 14:32:49,038: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-29 14:32:49,038: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 14:32:56,582: Calculator01.py: - Programm started
+INFO: 2021-07-29 14:32:56,583: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 14:32:56,583: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-29 14:32:56,583: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 14:33:01,793: Calculator01.py: - Programm started
+INFO: 2021-07-29 14:33:01,793: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 14:33:01,794: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-29 14:33:01,794: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 14:33:19,207: Calculator01.py: - Programm started
+INFO: 2021-07-29 14:33:19,207: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 14:33:19,208: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-29 14:33:19,208: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 14:33:27,527: Calculator01.py: - Programm started
+INFO: 2021-07-29 14:33:27,528: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 14:33:27,528: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-29 14:33:27,528: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 14:39:26,407: Calculator01.py: - Programm started
+INFO: 2021-07-29 14:39:26,407: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 14:39:26,408: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-29 14:39:26,408: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 14:39:35,340: Calculator01.py: - Programm started
+INFO: 2021-07-29 14:39:35,340: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 14:39:35,341: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-29 14:39:35,341: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 14:40:33,596: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 14:40:33,597: Calculator01.py: - Perform addition 6 , 5
+INFO: 2021-07-29 14:40:33,597: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 14:47:56,317: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 14:47:56,317: Calculator01.py: - Perform addition 11 , 5
+INFO: 2021-07-29 14:47:56,317: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 14:48:00,460: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 14:48:00,460: Calculator01.py: - Perform division 16 , 4
+INFO: 2021-07-29 14:48:00,461: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 14:48:05,836: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 14:48:05,837: Calculator01.py: - Perform division 4.0 , 8
+INFO: 2021-07-29 14:48:05,837: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 14:48:19,100: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 14:48:19,100: Calculator01.py: - Perform multiplication 0.5 , 80
+INFO: 2021-07-29 14:48:19,100: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 14:48:46,816: Calculator01.py: - Programm started
+INFO: 2021-07-29 14:48:46,816: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 14:48:46,816: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-29 14:48:46,816: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 14:49:30,635: Calculator01.py: - Programm started
+INFO: 2021-07-29 14:49:30,635: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 14:49:30,635: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-29 14:49:30,635: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 14:49:37,473: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 14:49:37,473: Calculator01.py: - Perform division 6 , 3
+INFO: 2021-07-29 14:49:37,473: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 14:51:13,224: Calculator01.py: - Programm started
+INFO: 2021-07-29 14:51:13,224: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 14:51:13,224: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-29 14:51:13,225: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 14:51:18,941: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 14:51:18,941: Calculator01.py: - Perform division 6 , 2.0
+INFO: 2021-07-29 14:51:18,941: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 14:51:42,013: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 14:51:42,013: Calculator01.py: - Perform multiplication 3.0 , 0.5
+INFO: 2021-07-29 14:51:42,013: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 14:51:51,612: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 14:51:51,612: Calculator01.py: - Perform addition 1.5 , 2.0
+INFO: 2021-07-29 14:51:51,612: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 14:52:26,815: Calculator01.py: - Programm started
+INFO: 2021-07-29 14:52:26,815: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 14:52:26,815: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-29 14:52:26,815: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 14:52:31,851: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 14:52:31,851: Calculator01.py: - Perform addition 6 , 7.0
+INFO: 2021-07-29 14:52:31,851: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 14:53:19,772: Calculator01.py: - Programm started
+INFO: 2021-07-29 14:53:19,772: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 14:53:19,773: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-29 14:53:19,773: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 14:53:25,250: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 14:53:25,250: Calculator01.py: - Perform addition 6 , 5.0
+INFO: 2021-07-29 14:53:25,251: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 14:58:04,153: Calculator01.py: - Programm started
+INFO: 2021-07-29 14:58:04,153: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 14:58:04,153: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-29 14:58:04,153: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 14:58:51,551: Calculator01.py: - Programm started
+INFO: 2021-07-29 14:58:51,551: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 14:58:51,551: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-29 14:58:51,551: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 15:03:06,011: Calculator01.py: - Programm started
+INFO: 2021-07-29 15:03:06,012: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 15:03:06,012: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-29 15:03:06,012: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 15:04:08,620: Calculator01.py: - Programm started
+INFO: 2021-07-29 15:04:08,621: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 15:04:08,621: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-29 15:04:08,621: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 15:04:21,247: Calculator01.py: - Programm started
+INFO: 2021-07-29 15:04:21,247: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 15:04:21,247: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-29 15:04:21,248: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 15:04:49,105: Calculator01.py: - Programm started
+INFO: 2021-07-29 15:04:49,105: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 15:04:49,106: Calculator01.py: - Perform multiplication 2 , 3
+INFO: 2021-07-29 15:04:49,106: Calculator01.py: - Introduction of a new action 
+INFO: 2021-07-29 15:04:56,820: Calculator01.py: - Choice of math action
+INFO: 2021-07-29 15:04:56,820: Calculator01.py: - Perform addition 6 , 4.0
+INFO: 2021-07-29 15:04:56,821: Calculator01.py: - Introduction of a new action 
