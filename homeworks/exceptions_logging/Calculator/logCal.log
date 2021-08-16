@@ -2,3 +2,23 @@ INFO: 2021-07-26 17:46:26,027: Calculator.py: - Programm started
 INFO: 2021-07-26 17:46:26,027: Calculator.py: - Plus function with args 
 INFO: 2021-07-26 17:46:26,027: Calculator.py: - Plus function with args 2 , 3
 INFO: 2021-07-26 17:46:26,027: Calculator.py: - Plus function with args 
+INFO: 2021-08-16 12:45:10,923: Calculator.py: - Programm started
+INFO: 2021-08-16 12:45:10,924: Calculator.py: - Choice of math action
+INFO: 2021-08-16 12:45:10,924: Calculator.py: - Perform multiplication 2 , 3
+INFO: 2021-08-16 12:45:10,924: Calculator.py: - Introduction of a new action 
+INFO: 2021-08-16 12:45:17,546: Calculator.py: - Choice of math action
+INFO: 2021-08-16 12:45:17,546: Calculator.py: - Perform subtraction 6 , 5
+INFO: 2021-08-16 12:45:17,546: Calculator.py: - Introduction of a new action 
+INFO: 2021-08-16 12:45:21,868: Calculator.py: - Choice of math action
+INFO: 2021-08-16 12:45:21,868: Calculator.py: - Perform multiplication 1 , 5
+INFO: 2021-08-16 12:45:21,868: Calculator.py: - Introduction of a new action 
+INFO: 2021-08-16 12:47:48,435: Calculator.py: - Programm started
+INFO: 2021-08-16 12:47:48,435: Calculator.py: - Choice of math action
+INFO: 2021-08-16 12:47:48,435: Calculator.py: - Perform multiplication 2 , 3
+INFO: 2021-08-16 12:47:48,435: Calculator.py: - Introduction of a new action 
+INFO: 2021-08-16 12:47:53,058: Calculator.py: - Choice of math action
+INFO: 2021-08-16 12:47:53,058: Calculator.py: - Perform multiplication 6 , 2
+INFO: 2021-08-16 12:47:53,059: Calculator.py: - Introduction of a new action 
+INFO: 2021-08-16 12:48:00,814: Calculator.py: - Choice of math action
+INFO: 2021-08-16 12:48:00,814: Calculator.py: - Perform subtraction 12 , 3
+INFO: 2021-08-16 12:48:00,814: Calculator.py: - Introduction of a new action 

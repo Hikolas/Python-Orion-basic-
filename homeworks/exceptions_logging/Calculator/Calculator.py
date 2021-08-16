@@ -71,6 +71,7 @@ class Calculator:
       if self.math_action != "%":
           print(self.first_num, " ", self.math_action, " ", self.second_num, " = ", result)
           self.first_num = result
+      print("___________________________________________________________________________")
 
     def substitute(self):
         logging.info(f"Introduction of a new action ")
