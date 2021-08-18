@@ -6,12 +6,21 @@ sock.bind(('46.4.63.238', 5050))
 clients = {}
 print("Server start")
 while True:
+    flag = False
     data, address = sock.recvfrom(1024)
     recipient_nickname = re.search("@(.*),", data.decode('utf-8'))
     print(address)
     if recipient_nickname is None:
         if address not in clients.keys():
-            clients[address] = re.search("\[(.*)\]", data.decode('utf-8')).group(0)
+            for client in clients.keys():
+                if re.search("\[(.*)\]", data.decode('utf-8')).group(0) == clients[client]:
+                    flag = True
+                    sock.sendto('This username is in use'.encode('utf-8'), address)
+                    break
+            if flag == True:
+                continue
+            sock.sendto('Ok'.encode('utf-8'), address)
+        clients[address] = re.search("\[(.*)\]", data.decode("utf-8")).group(0)
         for client in clients:
             if client == address:
                 continue
